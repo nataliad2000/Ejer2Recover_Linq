@@ -69,3 +69,8 @@ Agrupa por año todos los coches y muestra la cantidad que hay de color Azul
 - 15
 
 Busca todos los coches Hyundai que no tengan ni año, ni color.
+
+- 16 
+
+Crea un método de extensión donde se pueda introducir color y año, devolviendo el listado de Coches 
+que no cumplan la condición.
