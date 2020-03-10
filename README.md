@@ -8,7 +8,7 @@ el asterisco sea el numero del apartado, para una mayor facilidad en la correci√
 Si necesitais otro metodo para alguno de los apartados crear el m√©todo y que se encuentre
 abajo del apartado donde se realice. Gracias!
 
-- 1 
+- 1.2
 
 Crea la clase para poder cargar el Json y cargalo.
 
